@@ -1,1 +1,26 @@
-TEST
+VERSION="2.2.1"
+
+[DOCUMENTATION]
+ORG_NAME="COMING SOON"
+ORG_DESCRIPTION="COMING SOON"
+ORG_PHYSICAL_ADDRESS="COMING SOON"
+ORG_PHYSICAL_ADDRESS_ATTESTATION="COMING SOON"
+ORG_PHONE_NUMBER="COMING SOON"
+ORG_PHONE_NUMBER_ATTESTATION="COMING SOON"
+ORG_DBA="HVR"
+ORG_URL="https://turntbloke.me"
+ORG_LOGO="https://turntbloke.me/assets/img/apple-touch-icon.png"
+ORG_KEYBASE="harsha_neth"
+ORG_OFFICIAL_EMAIL="harsha@turntbloke.me"
+ORG_SUPPORT_EMAIL="harsha@turntbloke.me"
+
+[[CURRENCIES]]
+code="RGU"
+conditions="Every year a certain amount of RGU are released"
+desc="RGU coin in wallet to be treated as as NFT. As the wallet must have done great contribution."
+display_decimals=4
+fixed_number=10000000
+image="https://www.rgukt.ac.in/assets/images/rgulogo2.png"
+issuer="GDP7RM2DP3ERXR3DW7P7HHMF5L6LDLBQWNJWS5IRCMCPD3RZEFDJQGRJ"
+name="RGUKT Coin"
+status="live"
