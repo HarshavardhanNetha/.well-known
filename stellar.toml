@@ -4,6 +4,7 @@ VERSION="2.2.1"
 ALIAS="rgu-coin"
 DISPLAY_NAME="RGUKT"
 
+
 FEDERATION_SERVER="https://stellarid.io/federation/"
 
 [DOCUMENTATION]
