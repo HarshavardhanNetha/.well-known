@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: turntbloke.me
+Token: 16b194515e8db9181fa190c11003593b5a8d75d30cc7d706c470a20b67e49de6
